@@ -140,5 +140,5 @@ The Loan Approval Classification project successfully implements an end-to-end m
 
 ## 📷 Dashboard Preview
 
-![Loan Approval Classification Dashboard](Screenshort2026-11-13190049.png)
+![Loan Approval Classification Dashboard](https://github.com/mugil26/Loan-Approval-Classification-Using-Machine-Learning/blob/main/Screenshot%202026-11-13%20190049.png)
 
