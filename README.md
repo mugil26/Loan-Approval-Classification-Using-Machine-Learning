@@ -140,5 +140,5 @@ The Loan Approval Classification project successfully implements an end-to-end m
 
 ## 📷 Dashboard Preview
 
-![Loan Approval Classification Dashboard]()
+![Loan Approval Classification Dashboard](Screenshort2026-11-13190049.png)
 
