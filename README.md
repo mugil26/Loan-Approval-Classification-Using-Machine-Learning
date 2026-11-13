@@ -7,7 +7,7 @@ This project develops a machine learning-based Loan Approval Classification syst
 ## Technologies Used
 
 Python: Core programming language for data analysis and machine learning.
-VS Code: Used for exploratory data analysis, model development, and experimentation.
+Jupyter Notebook: Used for exploratory data analysis, model development, and experimentation.
 Streamlit: Used to develop the interactive loan approval prediction web application.
 Machine Learning: Used to train, evaluate, and compare classification algorithms.
 Git & GitHub: Used for project version control and repository management.
