@@ -138,7 +138,7 @@ This application helps demonstrate how machine learning can be used to classify 
 
 The Loan Approval Classification project successfully implements an end-to-end machine learning workflow, from exploratory data analysis and preprocessing to model training, evaluation, and deployment. Among the five algorithms, Random Forest achieved the highest accuracy of **91.89%**. The integration of the trained model with Streamlit makes loan classification interactive and accessible, demonstrating the practical application of machine learning in financial decision-support systems.
 
-## 📷 Dashboard Preview
+##  Dashboard Preview
 
 ![Loan Approval Classification Dashboard](https://github.com/mugil26/Loan-Approval-Classification-Using-Machine-Learning/blob/main/Screenshot%202026-11-13%20190049.png)
 
